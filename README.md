@@ -1,1 +1,3 @@
-# minji_park
+## Hellow 👋
+## I'm minji_park
+
