@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hello! I'm a Front-end Developer ✨</h1>
 
 <p align="center">
-  꾸준히 성장하는 개발자, <strong>박민지</strong>입니다 👩‍💻<br/>
+  꾸준히 성장하는 개발자, <strong>mjpark</strong>입니다 👩‍💻<br/>
   사용자에게 즐거운 경험을 주는 UI/UX에 진심이에요!
 </p>
 
